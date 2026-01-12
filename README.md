@@ -24,10 +24,10 @@ graph TD
     H --> I[👶 새로운 세대 생성]
     I --> B
     
-    style A fill:#e1f5ff
-    style D fill:#d4edda
-    style C fill:#fff3cd
-    style B fill:#f8d7da
+    style A fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style D fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
+    style C fill:#fff9c4,stroke:#f57f17,stroke-width:2px
+    style B fill:#fce4ec,stroke:#c2185b,stroke-width:2px
 ```
 
 ## 🎯 주요 기능
